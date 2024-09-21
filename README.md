@@ -57,3 +57,6 @@ Through this project, I developed essential skills in 3D modeling with Blender. 
 ---
 
 ### Image
+
+![Modélisation 3D du Mug](mug.png)
+
